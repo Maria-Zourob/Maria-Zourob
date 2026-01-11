@@ -7,36 +7,55 @@ I’m a dedicated Full Stack Developer with experience in building scalable, hig
 I enjoy working across the full stack — from clean backend architectures to intuitive, user-friendly interfaces.
 
 ---
+## 📊 GitHub Activity
 
-## 🚀 Tech Stack
-
-### 🧠 Backend
-- C#, ASP.NET Core, Minimal APIs
-- RESTful APIs, MVC, Razor Pages
-- Clean Architecture
-- SQL Server
-- Git & GitHub Actions
-
-### 🎨 Frontend
-- HTML, CSS, JavaScript
-- React.js
-- Tailwind CSS, Bootstrap
-
-### 📱 Mobile
-- Flutter (Cross-platform)
-
-### 🗄️ Databases & Data
-- SQL Server, Data Modeling, Complex Queries
+- 🔹 Active Full Stack Developer  
+- 🔹 Focused on backend & scalable systems  
+- 🔹 Regular contributor to academic & personal projects  
+- 🔹 Strong interest in clean architecture & UI/UX  
 
 
-### 🎨 UI / UX
-- Figma
-- Adobe XD
-- Photoshop
+
+## 🛠️ Technologies & Tools
+
+### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Database & Data
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 🎓 Education
+
+**Bachelor’s in Computer Engineering & Intelligent Systems**  
+Al-Aqsa University  
+📅 Nov 2025 – Present  
+
+- Computer Engineering and Intelligent Systems student  
+- Interested in artificial intelligence and problem-solving  
+- Focused on building a strong technical foundation  
+
+---
+
 **Diploma in Software & Database Technology**  
 Gaza Training Center (GTC) – UNRWA  
 📅 2022 – 2025  
