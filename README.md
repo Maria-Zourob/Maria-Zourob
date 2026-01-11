@@ -27,8 +27,7 @@ I enjoy working across the full stack — from clean backend architectures to in
 
 ### 🗄️ Databases & Data
 - SQL Server, Data Modeling, Complex Queries
-- Python (Pandas)
-- Excel, Power BI
+
 
 ### 🎨 UI / UX
 - Figma
