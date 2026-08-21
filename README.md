@@ -22,7 +22,6 @@ Dedicated Full Stack Developer with hands-on experience building scalable web ap
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00599C?style=for-the-badge)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,7 +39,7 @@ Dedicated Full Stack Developer with hands-on experience building scalable web ap
 
 ### Tools & UI/UX
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 
@@ -49,29 +48,29 @@ Dedicated Full Stack Developer with hands-on experience building scalable web ap
 ## 🎓 Education & Certifications
 
 **Bachelor of Intelligent Systems & Computer Engineering**  
-Al-Aqsa University | *2025 – Present*[span_1](start_span)[span_1](end_span)
+Al-Aqsa University | *2025 – Present*[span_0](start_span)[span_0](end_span)
 
 **Diploma in Software & Database Technology**  
-Gaza Training Center (GTC) – UNRWA | *2022 – 2025* | **GPA: 91.62 / 100**[span_2](start_span)[span_2](end_span)
+Gaza Training Center (GTC) – UNRWA | *2022 – 2025* | **GPA: 91.62 / 100**[span_1](start_span)[span_1](end_span)
 
 ### Key Certifications
-- 🏆 **AI Fluency: Framework & Foundations** – Anthropic (2026)[span_3](start_span)[span_3](end_span)
-- 🏆 **Claude Code 101 & Building with Claude API** – Anthropic (2026)[span_4](start_span)[span_4](end_span)
-- 🏆 **Selling Your Freelancing Services Online** – ITC (2026)[span_5](start_span)[span_5](end_span)
-- 🏆 **CCNA: Introduction to Networks** – Cisco (2024)[span_6](start_span)[span_6](end_span)
+- 🏆 **AI Fluency: Framework & Foundations** – Anthropic (2026)[span_2](start_span)[span_2](end_span)
+- 🏆 **Claude Code 101 & Building with Claude API** – Anthropic (2026)[span_3](start_span)[span_3](end_span)
+- 🏆 **Selling Your Freelancing Services Online** – ITC (2026)[span_4](start_span)[span_4](end_span)
+- 🏆 **CCNA: Introduction to Networks** – Cisco (2024)[span_5](start_span)[span_5](end_span)
 
 ---
 
 ## 📌 Featured Projects
 
-- 🌐 **Sham Stack Platform:** Responsive web features built with ASP.NET Core MVC, SQL Server, and Tailwind CSS[span_7](start_span)[span_7](end_span).
-- 📚 **Al-Haitham Educational Platform:** Scalable backend & data modeling using ASP.NET Core & EF Core[span_8](start_span)[span_8](end_span).
-- 📝 **College Blog Platform:** Full-stack MVC application with authentication, role authorization, and categories[span_9](start_span)[span_9](end_span).
-- 💼 **LinkedIn Profile Workshop App:** Interactive frontend app using JavaScript and Tailwind CSS[span_10](start_span)[span_10](end_span).
+- 🌐 **Sham Stack Platform:** Responsive web features built with ASP.NET Core MVC, SQL Server, and Tailwind CSS[span_6](start_span)[span_6](end_span).
+- 📚 **Al-Haitham Educational Platform:** Scalable backend & data modeling using ASP.NET Core & EF Core[span_7](start_span)[span_7](end_span).
+- 📝 **College Blog Platform:** Full-stack MVC application with authentication, role authorization, and categories[span_8](start_span)[span_8](end_span).
+- 💼 **LinkedIn Profile Workshop App:** Interactive frontend app using JavaScript and Tailwind CSS[span_9](start_span)[span_9](end_span).
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: mariaanwarzourob@gmail.com[span_11](start_span)[span_11](end_span)
-- 💼 LinkedIn: [Maria Anwar Zourob](https://linkedin.com/in/maria-zourob)[span_12](start_span)[span_12](end_span)
-- 💻 GitHub: [Maria-Zourob](https://github.com/Maria-Zourob)[span_13](start_span)[span_13](end_span)
+- 📧 **Email:** [mariaanwarzourob@gmail.com](mailto:mariaanwarzourob@gmail.com)[span_10](start_span)[span_10](end_span)
+- 💼 **LinkedIn:** [Maria Anwar Zourob](https://www.linkedin.com/in/maria-zourob)[span_11](start_span)[span_11](end_span)
+- 💻 **GitHub:** [Maria-Zourob](https://github.com/Maria-Zourob)[span_12](start_span)[span_12](end_span)
