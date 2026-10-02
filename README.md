@@ -6,16 +6,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;ASP.NET+Core+%7C+Next.js+%7C+React;Backend+%2B+Frontend+%2B+UI%2FUX;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
 
-<p>
+<p align="center">
+  <a href="https://maria-zourob-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-19324A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/maria-zourob">
-    <img src="https://img.shields.io/badge/LinkedIn-Maria%20Zourob-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Maria-Zourob">
-    <img src="https://img.shields.io/badge/GitHub-Maria--Zourob-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Maria-Zourob&style=flat-square&color=19324A&label=Profile+Views" />
 </p>
-
 </div>
 
 ---
